@@ -1,0 +1,55 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/home/bitzeesx/Desktop/WBTC/contracts/Wbtc.sol": {
+      "lastModificationDate": 1709714084669,
+      "contentHash": "2045a4f054585789ac5886404a03941f",
+      "sourceName": "contracts/Wbtc.sol",
+      "solcConfig": {
+        "version": "0.4.24",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.4.24"
+      ],
+      "artifacts": [
+        "BasicToken",
+        "BurnableToken",
+        "CanReclaimToken",
+        "Claimable",
+        "DetailedERC20",
+        "ERC20",
+        "ERC20Basic",
+        "MintableToken",
+        "Ownable",
+        "OwnableContract",
+        "Pausable",
+        "PausableToken",
+        "SafeERC20",
+        "SafeMath",
+        "StandardToken",
+        "WBTC"
+      ]
+    }
+  }
+}
